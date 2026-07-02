@@ -62,7 +62,7 @@ Visit `http://localhost:5173`.
 
 ## Deployment
 
-See `SETUP_GUIDE.md` for full step-by-step deployment instructions (MongoDB Atlas, Cloudinary, Render).
+(MongoDB Atlas, Cloudinary, Render).
 
 ## License
 
